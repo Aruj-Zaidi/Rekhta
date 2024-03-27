@@ -1,4 +1,4 @@
 # Rekhta
 This is my first Git Repository.
 <br>
-Author - Aruj Zaidi
+Author - Aruj Zaidi (Rekhta)
